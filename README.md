@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @diegogamedev
-  - I'm a unity developer, with 3 years of experience (1 as an employee, 2 as a hobbyist) 🎮
+  - I'm a unity developer, with 3 years of experience (1 as an employee, 2 as a solo hobbyist/student) 🎮
   - I worked with most of the new technologies that Unity deployed in the past few years (DOTS, AR Foundation, Shader Graph, HDRP/URP) 🔬
   - I also worked for clients all around the world (most projects are confidential yet though) 🤫
   - I also adventure myself as a Sound Designer and even as a Game Designer. 📘 🎹
