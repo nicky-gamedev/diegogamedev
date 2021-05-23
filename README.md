@@ -6,6 +6,7 @@
 - 👀 I’m interested in 
   - Game Development
   - .NET Applications for Web/Windows
+  - Audio Editing/Mixing
 - 🌱 I’m currently learning
   - DOTS
   - C/C++
