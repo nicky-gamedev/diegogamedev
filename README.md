@@ -24,6 +24,7 @@
     -  https://dnmaster.itch.io/
   - My portfolio!
     - [Coming soon]    
+    - But you can check my public repos!
 
 <!---
 diegogamedev/diegogamedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
