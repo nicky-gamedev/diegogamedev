@@ -20,11 +20,9 @@
   - Discord: dnmaster#1491
 - 🔍 Don't forget to check as well: 
   - itch.io pages with my public work (all game jam material from 2019/2020)
-    -  https://tarantulahawk.itch.io/
-    -  https://dnmaster.itch.io/
-  - My portfolio!
-    - [Coming soon]    
-    - But you can check my public repos!
+    -  https://tarantulahawk.itch.io/ (My college works)
+    -  https://dnmaster.itch.io/ (Playable game jam material)
+    -  https://medium.com/@diego.gamedev (Blog posts about my proudest works so far)
 
 <!---
 diegogamedev/diegogamedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
