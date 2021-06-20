@@ -5,7 +5,7 @@
   - I also adventure myself as a Sound Designer and even as a Game Designer. 📘 🎹
 - 👀 I’m interested in 
   - Game Development
-  - .NET Applications for Web/Windows
+  - Software Development of any kind
   - Audio Editing/Mixing
 - 🌱 I’m currently learning
   - DOTS
