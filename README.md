@@ -17,7 +17,7 @@
 - 📫 How to reach me: 
   - Linkedin: https://www.linkedin.com/in/dn-gamedev/ 
   - Email: diego.nascimentomartins2@gmail.com 
-  - Discord: dnmaster#1491
+  - Discord: dn#1491
 - 🔍 Don't forget to check as well: 
   - itch.io pages with my public work (all game jam material from 2019/2020)
     -  https://tarantulahawk.itch.io/ (My college works)
