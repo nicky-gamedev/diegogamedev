@@ -8,8 +8,8 @@
   - Software Development of any kind
   - Audio Editing/Mixing
 - 🌱 I’m currently learning
-  - DOTS
   - C/C++
+  - Computer Graphics
   - Shader Programming in Unity.
 - 💞️ I’m looking to collaborate on 
   - Gamedev projects made with unity
@@ -25,7 +25,7 @@
     -  https://medium.com/@diego.gamedev (Blog posts about my proudest works so far)
 
 
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&leet_logo=hide&login=dienasci)](https://github.com/mohouyizme/1337-readme)
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=dienasci)](https://github.com/mohouyizme/1337-readme)
 
 <!---
 diegogamedev/diegogamedev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
