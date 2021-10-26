@@ -24,7 +24,6 @@
     -  https://dnmaster.itch.io/ (Playable game jam material)
     -  https://medium.com/@diego.gamedev (Blog posts about my proudest works so far)
 
-
 [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42cursus&dark=true&leet_logo=hide&login=dienasci)](https://github.com/mohouyizme/1337-readme)
 
 <!---
