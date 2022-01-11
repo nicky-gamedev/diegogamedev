@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegogamedev&label=Profile%20views&color=0e75b6&style=flat" alt="diegogamedev" /> </p>
 
-- 🔭 I’m currently working on [minitalk](https://github.com/diegogamedev/42cursus-minitalk)
+- 🔭 I’m currently working on [minitalk](https://github.com/diegogamedev/42cursus-push_swap)
 
 - 🌱 I’m currently learning **C and C++**
 
