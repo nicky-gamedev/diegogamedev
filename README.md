@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegogamedev&label=Profile%20views&color=0e75b6&style=flat" alt="diegogamedev" /> </p>
 
-- 🔭 I’m currently working on [minishell](https://github.com/diegogamedev/42cursus-minishell)
+- 🔭 I’m currently working on [minishell](https://github.com/xinove1/minihell) with @xinove1
 
 - :video_game: I'm also working at [QUByte Interactive](https://www.qubyteinteractive.com/site/) as a Junior Programmer on the Console Porting Team!
 
