@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Diego!</h1>
+<h1 align="center">Hi 👋, I'm Dominique!</h1>
 <h3 align="center">A Brazilian Game Developer/Software Engineer who loves to code and create cool stuff</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegogamedev&label=Profile%20views&color=0e75b6&style=flat" alt="diegogamedev" /> </p>
