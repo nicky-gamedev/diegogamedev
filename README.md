@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [minishell](https://github.com/xinove1/minihell) with [@xinove1](https://github.com/xinove1)
 
-- :video_game: I'm also working at [QUByte Interactive](https://www.qubyteinteractive.com/site/) as a Junior Programmer on the Console Porting Team!
+- :video_game: I'm also working at [Sahara Penguins](https://saharapenguins.com) as a Freelancer Game Developer
 
 - 🌱 I’m currently learning **C and C++**
 
