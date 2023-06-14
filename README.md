@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegogamedev&label=Profile%20views&color=0e75b6&style=flat" alt="diegogamedev" /> </p>
 
-- 🔭 I’m currently working on [minishell](https://github.com/xinove1/minihell) with [@xinove1](https://github.com/xinove1)
+- 🔭 I’m currently working on... anything special, fr.
 
-- :video_game: I'm also working at [Sahara Penguins](https://saharapenguins.com) as a Freelancer Game Developer
+- :video_game: I'm also working at [Lumen Games](https://lumen.games) as a Game Developer!
 
-- 🌱 I’m currently learning **C and C++**
+- 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **Unity development, C, C++, C#**
 
