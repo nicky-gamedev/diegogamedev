@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on... anything special, fr.
 
-- :video_game: I'm also working at [Lumen Games](https://lumen.games) as a Game Developer!
+- :video_game: I'm also working at [Dumativa](http://dumativa.com.br/) as a Game Developer!
 
 - 🌱 I’m currently learning **Rust**
 
