@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=diegogamedev&label=Profile%20views&color=0e75b6&style=flat" alt="diegogamedev" /> </p>
 
-- 🔭 I’m currently working on... anything special, fr.
+- 🔭 I’m currently working on Capybara Collector.
 
-- :video_game: I'm also working at [Dumativa](http://dumativa.com.br/) as a Game Developer!
+- :video_game: I'm also working at [Lockwood Publishing](https://www.lockwoodpublishing.com/) as a Build Engineer!
 
-- 🌱 I’m currently learning **Rust**
+- 🌱 I’m currently learning **Jenkins**
 
 - 💬 Ask me about **Unity development, C, C++, C#**
 
